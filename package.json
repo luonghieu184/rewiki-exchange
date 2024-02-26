@@ -43,5 +43,21 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "^3.2.5"
+  },
+  "description": "Free to download and use rewiki anywhere. \r Free use package for development on rewiki-exchange",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luonghieu184/rewiki-exchange.git"
+  },
+  "keywords": [
+    "Rewiki",
+    "Exchange",
+    "Template"
+  ],
+  "author": "RewikiPX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luonghieu184/rewiki-exchange/issues"
   }
 }

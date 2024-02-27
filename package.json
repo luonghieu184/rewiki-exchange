@@ -1,6 +1,6 @@
 {
   "name": "rewiki-exchange",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/luonghieu184/rewiki-exchange",
   "dependencies": {
     "apexcharts": "^3.45.2",

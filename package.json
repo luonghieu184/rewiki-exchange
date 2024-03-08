@@ -1,6 +1,6 @@
 {
   "name": "rewiki-exchange",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://github.com/luonghieu184/rewiki-exchange",
   "dependencies": {
     "apexcharts": "^3.45.2",
@@ -10,7 +10,8 @@
     "react-router-dom": "^6.22.0",
     "react-apexcharts": "^1.4.1",
     "react-dom": "^18.2.0",
-    "react-sparklines": "^1.7.0"
+    "react-sparklines": "^1.7.0",
+    "analsorhost-simple-bs":"^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
